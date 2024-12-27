@@ -11,7 +11,7 @@
 - 🎮 In my free time, I enjoy playing **God of War** and **Saints Row**.
 
 ### 🔧 Technologies & Tools:
-- **Languages**: JavaScript, HTML, CSS, MongoDB
+- **Languages**: Java, JavaScript, HTML, CSS, MongoDB
 - **Frameworks & Libraries**: React.js, Node.js, Express.js
 - **Database**: MongoDB
 - **Other**: Git, Postman
