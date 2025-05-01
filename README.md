@@ -22,7 +22,7 @@
 - **JARVIS** - A Desktop Personal Assistant with NLP capabilities
 
 ### 🌱 Learning & Exploring:
-- Enhancing my skills in **MERN stack** for full-stack web development.
+- Enhancing my skills in **Java Full Stack** for full-stack web development.
 - Constantly exploring AI and machine learning applications.
 
 <!-- Optional Sections -->
