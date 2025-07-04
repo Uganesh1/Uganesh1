@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me:
 - 🎓 I hold a B.E. in Computer Science and Engineering, with a strong foundation in software development.
 - 💡 Passionate about AI, software development, and building innovative projects.
-- 🎮 In my free time, I enjoy playing **God of War** and **Saints Row**.
+- 🎮 In my free time, I enjoy playing Games like **God of War** and **Saints Row**.
 
 ### 🔧 Technologies & Tools:
 - **Languages**: Java, JavaScript, HTML, CSS
