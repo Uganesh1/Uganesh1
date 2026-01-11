@@ -1,43 +1,42 @@
-# Hi there, I'm Uganesh! 👋
+# 👋 Hi, I'm Uganesh
 
-**Computer Science Graduate | Full Stack Developer | Tech Enthusiast**
+### Full-Stack Developer | Problem Solver
+
+I'm a passionate developer who enjoys building efficient, scalable applications with clean code and modern technologies. Always eager to learn and contribute to meaningful projects.
 
 ---
 
-### 👨‍💻 About Me:
-- 🎓 I hold a B.E. in Computer Science and Engineering, with a strong foundation in software development.
-- 💡 Passionate about AI, software development, and building innovative projects.
-- 🎮 In my free time, I enjoy playing Games like **God of War** and **Saints Row**.
+## 🛠️ Tech Stack
 
-### 🔧 Technologies & Tools:
-- **Languages**: Java, JavaScript, HTML, CSS
-- **Frameworks & Libraries**: React.js, Spring Boot
-- **Database**: MongoDB, MySQL
-- **Tools**: Git, Github, Postman
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🔥 Current Projects:
-- **[Cosmic Tube](https://cosmictube.vercel.app/)** - An AI-powered video content management system
-- **[TFC Website](https://uganesh1.github.io/Tender-Fried-Chicken/)** - A static restaurant website using HTML & CSS
-- **JARVIS** - A Desktop Personal Assistant with NLP capabilities
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🌱 Learning & Exploring:
-- Enhancing my skills in **Full Stack** for full-stack web development.
-- Constantly exploring AI and machine learning applications.
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<!-- Optional Sections -->
-### 😄 Pronouns:
-- He/Him
+### **Tools**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-### ⚡ Fun fact:
-- I love exploring game physics and mechanics while playing!
 ---
 
-### 📫 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/uganesh-developer/)
-- [GitHub](https://github.com/Uganesh1)
+## 📊 Contribution Graph
 
+[![Uganesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Uganesh1&theme=github-compact&hide_border=true)](https://github.com/Uganesh1)
 
-<!---
-Uganesh1/Uganesh1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Uganesh1&color=blue&style=flat-square)
+
+</div>
