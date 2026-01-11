@@ -34,9 +34,3 @@ I'm a passionate developer who enjoys building efficient, scalable applications 
 [![Uganesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Uganesh1&theme=github-compact&hide_border=true)](https://github.com/Uganesh1)
 
 ---
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Uganesh1&color=blue&style=flat-square)
-
-</div>
