@@ -1,4 +1,3 @@
-
 <!--
 ╔══════════════════════════════════════════════════════════════════════╗
 ║  README.md — Premium GitHub Profile                                  ║
@@ -82,23 +81,17 @@
 
 <br>
 
-<!-- 3D CONTRIBUTION GRAPH
-     Verify that this file exists at this exact path in the output branch.
--->
-
-<img src="https://raw.githubusercontent.com/Uganesh1/Uganesh1/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
-
+<!-- 3D CONTRIBUTION GRAPH (corrected path: profile-3d-contrib/ subfolder) -->
+<img src="https://raw.githubusercontent.com/Uganesh1/Uganesh1/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
 <br><br>
 
-<!-- GITHUB ACTIVITY GRAPH -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Uganesh1&bg_color=0D1117&color=00E5FF&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=Commit%20Rhythm%20%E2%80%94%20Consistency%20Over%20Intensity" width="100%" alt="GitHub Activity Graph" />
+<!-- REPLACED ACTIVITY GRAPH WITH CONTRIBUTOR CARD -->
+<img src="https://github-contribution-card.vercel.app/api?username=Uganesh1&theme=radical&hide_border=true&combine_all_yearly_contributions=true" width="100%" alt="GitHub Contribution Overview" />
 
 <br><br>
 
 <!-- GITHUB STATS -->
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Uganesh1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=A855F7&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Statistics" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Uganesh1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=A855F7&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Statistics" />
 
 <img height="180em" src="https://streak-stats.demolab.com/?user=Uganesh1&theme=radical&hide_border=true&background=0D1117&stroke=00E5FF&ring=A855F7&fire=FF6C37&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Contribution Streak" />
 
@@ -116,15 +109,8 @@
 
 <br><br>
 
-<!-- GITHUB TROPHIES -->
-
-<img src="https://github-profile-trophy.vercel.app/?username=Uganesh1&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" alt="GitHub Trophies" />
-
-<br><br>
-
 <!-- CONTRIBUTOR STATISTICS -->
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Uganesh1&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" width="100%" alt="Contributor Statistics" />
+<img src="https://github-contribution-card.vercel.app/api?username=Uganesh1&theme=radical&hide_border=true&combine_all_yearly_contributions=true" width="100%" alt="GitHub Contributor Statistics" />
 
 <br><br>
 
@@ -184,8 +170,6 @@
 <!-- INSPIRATION -->
 
 <div align="center">
-
-### 💭 A Thought for the Road
 
 <br>
 
